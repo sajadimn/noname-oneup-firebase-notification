@@ -1,0 +1,26 @@
+{
+    "name": "Noname.OneUp.FirebaseNotification.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Noname.OneUp.FirebaseNotification"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.google.firebase.messaging",
+            "expression": "",
+            "define": "ONEUP_FIREBASE_MESSAGING_PACKAGE"
+        }
+    ],
+    "noEngineReferences": false
+}

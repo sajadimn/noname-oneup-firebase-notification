@@ -1,0 +1,22 @@
+{
+    "name": "Noname.OneUp.FirebaseNotification",
+    "rootNamespace": "",
+    "references": [
+        "Noname.OneUp.Singleton"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.google.firebase.messaging",
+            "expression": "",
+            "define": "ONEUP_FIREBASE_MESSAGING"
+        }
+    ],
+    "noEngineReferences": false
+}
